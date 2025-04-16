@@ -19,7 +19,7 @@
 [<img align="left" alt="HenryOkoye | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Henry0koye
-[youtube]: https://www.youtube.com/@henry_okoye
+[youtube]: https://www.youtube.com/@Henry-Okoye
 [instagram]: https://www.instagram.com/0c.henry?igsh=YWtuaWFibGg4YnB4&utm_source=qr
 [linkedin]: https://www.linkedin.com/in/henry-okoye-8218b4318
 
