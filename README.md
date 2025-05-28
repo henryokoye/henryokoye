@@ -85,7 +85,7 @@ I share hands-on labs, real-world Cybersecurity and IT projects, and practical r
 ---
 
 ### 🧰 IT Projects
-
+(*Includes Helpdesk, Cloud, and Admin Work*)
 - **Active Directory Lab**  
   Built a lab using Windows Server for user/group policy management and authentication simulations.
 
@@ -98,18 +98,19 @@ I share hands-on labs, real-world Cybersecurity and IT projects, and practical r
 
   ## 🎓 Certifications
 
-<a href="https://www.credly.com/badges/bbc9cee0-3634-47c6-b96e-d785177a38e1/linked_in_profile">
+- <a href="https://www.credly.com/badges/bbc9cee0-3634-47c6-b96e-d785177a38e1/linked_in_profile">
   <img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 Google IT Support Professional Certificate</a>
 
-<a href="https://www.credly.com/badges/64baea9e-eabe-40f5-a817-c581bc1f26aa/linked_in_profile">
+- <a href="https://www.credly.com/badges/64baea9e-eabe-40f5-a817-c581bc1f26aa/linked_in_profile">
   <img src="https://img.shields.io/badge/OPSWAT%20Cybersecurity%20Associate-0072C6?style=for-the-badge&logo=Opswat&logoColor=white" />
 OPSWAT Introduction to Critical Infrastructure Protection (ICIP)</a>
 
-<a href="https://www.credly.com/badges/c13c4647-7035-4c53-94f5-95c96bccf059/linked_in_profile">
+- <a href="https://www.credly.com/badges/c13c4647-7035-4c53-94f5-95c96bccf059/linked_in_profile">
   <img src="https://img.shields.io/badge/Cisco%20Certified-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
 Cyber Threat Management</a>
 
-
+## Contact Me
+- www.linkedin.com/in/henry-okoye-8218b4318
 
 
