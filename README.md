@@ -1,9 +1,10 @@
 <h1>Hi, I'm Henry! <br/><a href="https://www.linkedin.com/in/henry-okoye-8218b4318/">Cybersecurity Professional</a>, <a href="https://github.com/henryokoye">IT Specialist</a>, <a href="https://www.youtube.com/@henry_okoye">YouTuber</a></h1>
-Cybersecurity and IT enthusiast exploring real-world projects in SOC automation, networking, and system administration.
-<a href="https://www.linkedin.com/in/henry-okoye-8218b4318">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+Cybersecurity and IT enthusiast exploring real-world projects in SOC automation, networking, and system administration.
+<a href="https://www.linkedin.com/in/henry-okoye-8218b4318">
+  
 ## Objective
 I share hands-on labs, real-world Cybersecurity and IT projects, and practical resources to help others break into tech and grow their skills — one step at a time.
 
@@ -100,17 +101,13 @@ I share hands-on labs, real-world Cybersecurity and IT projects, and practical r
 
  <a href="https://www.credly.com/badges/bbc9cee0-3634-47c6-b96e-d785177a38e1/linked_in_profile">
   <img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-Google IT Support Professional Certificate</a>
+</a>
 ,
  <a href="https://www.credly.com/badges/64baea9e-eabe-40f5-a817-c581bc1f26aa/linked_in_profile">
   <img src="https://img.shields.io/badge/OPSWAT%20Cybersecurity%20Associate-0072C6?style=for-the-badge&logo=Opswat&logoColor=white" />
-OPSWAT Introduction to Critical Infrastructure Protection (ICIP)</a>
+</a>
 ,
  <a href="https://www.credly.com/badges/c13c4647-7035-4c53-94f5-95c96bccf059/linked_in_profile">
   <img src="https://img.shields.io/badge/Cisco%20Certified-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
-Cisco Cyber Threat Management</a>
-
-## Contact Me
-- www.linkedin.com/in/henry-okoye-8218b4318
-
+</a>
 
