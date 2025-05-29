@@ -11,7 +11,8 @@ I share hands-on labs, real-world Cybersecurity and IT projects, and practical r
 ## Skills
 | Skill                                     | Associated Project / Tool         |
 |------------------------------------------|-----------------------------------|
-| SIEM Implementation and Log Analysis     | *Planned: Detection Lab*          |
+|IT Operations & Active Directory    |Completed: IT Support Home Lab (KevTech Series) |
+|SIEM Implementation and Log Analysis     | *Planned: Detection Lab*          |
 | Network Traffic Monitoring & Attack Detection | *Planned: Detection Lab*      |
 | Security Automation with Shuffle SOAR    | *To Do: SOC Automation Lab*       |
 | Incident Response Planning and Execution | *To Do: SOC Automation Lab*       |
@@ -19,56 +20,27 @@ I share hands-on labs, real-world Cybersecurity and IT projects, and practical r
 | Scripting and Automation for Threat Mitigation | *To Do: SOC Automation Lab* |
 | Cloud Computing (Azure)                  | *Learning via Microsoft Learn*    |
 | Programming language                     | *Planned: Python Automation Scripts* |
-## 🛠️ Tools
 
-<!-- NETWORK -->
-### 🌐 Network
-<div>
-  <img src="https://img.shields.io/badge/Wireshark-16797A?style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zeek-777BBA?style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## 🧰 Tools & Platforms
 
-<!-- ENDPOINT -->
-### 🖥️ Endpoint & Vulnerability
-<div>
-  <img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### 💻 Operating Systems
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
 
-<!-- SIEM -->
-### 📊 SIEM & Log Analysis
-<div>
-  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
+### 🌐 Networking & Infrastructure
+<img src="https://img.shields.io/badge/TCP/IP-0052CC?style=for-the-badge&logo=protocolsio&logoColor=white"/> <img src="https://img.shields.io/badge/Active%20Directory-333333?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/DNS%20&%20DHCP-4285F4?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Firewall%20Management-FF6F00?style=for-the-badge&logo=fortinet&logoColor=white"/>
 
-<!-- CLOUD -->
-### ☁️ Cloud Platforms
-<div>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-</div>
+### 🔐 Cybersecurity Tools
+<img src="https://img.shields.io/badge/SIEM-0052CC?style=for-the-badge&logo=splunk&logoColor=white"/> <img src="https://img.shields.io/badge/Endpoint%20Security-4CAF50?style=for-the-badge&logo=windowsdefender&logoColor=white"/> <img src="https://img.shields.io/badge/Vulnerability%20Management-FF5722?style=for-the-badge&logo=nessus&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
-<!-- SCRIPTING -->
-### 💻 Scripting & Programming
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-</div>
+### 🧾 Ticketing & Support
+<img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Remote%20Support-607D8B?style=for-the-badge&logo=teamviewer&logoColor=white"/> <img src="https://img.shields.io/badge/Helpdesk%20Tools-29B6F6?style=for-the-badge&logo=zendesk&logoColor=white"/>
 
-<!-- TICKETING -->
-### 🎫 Ticketing & ITSM
-<div>
-  <img src="https://img.shields.io/badge/ServiceNow-1DBF73?style=for-the-badge&logo=ServiceNow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-</div>
+### 🧪 Virtualization & Cloud
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/Hyper--V-00ADEF?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-<!-- VIRTUALIZATION -->
-### 🧪 Virtualization & Lab Tools
-<div>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
+### 💻 Programming & Scripting
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
 
 ## 📂 Projects
 
