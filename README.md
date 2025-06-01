@@ -59,9 +59,9 @@ I share hands-on labs, real-world Cybersecurity and IT projects, and practical r
 
 ### 🧰 IT Projects
 (*Includes Helpdesk, Cloud, and Admin Work*)
-- **Active Directory Lab**  
-  Built a lab using Windows Server for user/group policy management and authentication simulations.
-
+-  [**Active Directory Deployment Using Powershell Automation**](https://github.com/henryokoye/ActiveDirectoryLab)  
+  Active Directory home lab Environment using Oracle Virtual Box and automating AD deployments using Powershell
+  
 - **Azure Cloud Lab** *(Learning via Microsoft Learn)*  
   Setting up basic infrastructure and exploring cloud security policies on Azure.
 
