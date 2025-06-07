@@ -11,8 +11,9 @@ I share hands-on labs, real-world Cybersecurity and IT projects, and practical r
 ## Skills
 | Skill                                     | Associated Project / Tool         |
 |------------------------------------------|-----------------------------------|
-|IT Operations & Active Directory    |Completed: IT Support Home Lab (KevTech Series) |
-|SIEM Implementation and Log Analysis     | *Planned: Detection Lab*          |
+| IT Operations & Tools     |[**IT support Homelab**](https://github.com/henryokoye/ITSupportHomelab)|
+| Active Directory Automation | [**Active Directory Lab**](https://github.com/henryokoye/ActiveDirectoryLab)  |
+| SIEM Implementation and Log Analysis     | *Planned: Detection Lab*          |
 | Network Traffic Monitoring & Attack Detection | *Planned: Detection Lab*      |
 | Security Automation with Shuffle SOAR    | *To Do: SOC Automation Lab*       |
 | Incident Response Planning and Execution | *To Do: SOC Automation Lab*       |
@@ -59,14 +60,14 @@ I share hands-on labs, real-world Cybersecurity and IT projects, and practical r
 
 ### 🧰 IT Projects
 (*Includes Helpdesk, Cloud, and Admin Work*)
--  [**Active Directory Deployment Using Powershell Automation**](https://github.com/henryokoye/ActiveDirectoryLab)  
+-  [**Active Directory Lab**](https://github.com/henryokoye/ActiveDirectoryLab)  
   Active Directory home lab Environment using Oracle Virtual Box and automating AD deployments using Powershell
   
 - **Azure Cloud Lab** *(Learning via Microsoft Learn)*  
   Setting up basic infrastructure and exploring cloud security policies on Azure.
 
-- **Jira + ServiceNow Integration**  
-  Simulated ticket workflows and issue tracking for a small IT support environment.
+- [**IT support Homelab**](https://github.com/henryokoye/ITSupportHomelab)  
+A practical IT support lab built using virtualization to simulate real-world help desk and system administration tasks.
 
 
   ## 🎓 Certifications
