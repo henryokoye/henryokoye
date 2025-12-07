@@ -13,7 +13,7 @@ I share hands-on labs, real-world Cybersecurity and IT projects, and practical r
 |------------------------------------------|-----------------------------------|
 | IT Operations & Tools     |[**IT support Homelab**](https://github.com/henryokoye/ITSupportHomelab)|
 | Active Directory Automation | [**Active Directory Lab**](https://github.com/henryokoye/ActiveDirectoryLab)  |
-| Home SOC + SIEM Monitoring Live Attacks    | **Home Lab from ZERO and Catch Attackers!**(https://github.com/henryokoye/Home-SOC-SIEM-Monitoring-Live-Attacks)      |
+| Home SOC + SIEM Monitoring Live Attacks    | [**Home Lab from ZERO and Catch Attackers!**](https://github.com/henryokoye/Home-SOC-SIEM-Monitoring-Live-Attacks)      |
 | SIEM Implementation and Log Analysis     | *Planned: Detection Lab*          |
 | Network Traffic Monitoring & Attack Detection | *Planned: Detection Lab*      |
 | Security Automation with Shuffle SOAR    | *To Do: SOC Automation Lab*       |
